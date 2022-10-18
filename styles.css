@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Sacramento&display=swap');
+
+body {
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    font-size: 128;
+    font-family: 'Sacramento', cursive;
+    margin-top: 0;
+}
+
+p {
+    font-size: 32;
+}
+
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.top-cloud {
+    position: relative;
+    left: 225px;
+}
+
+.bottom-cloud {
+    position: absolute;
+}
